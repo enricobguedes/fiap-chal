@@ -1,0 +1,518 @@
+[
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_m.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/m.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_s.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/s.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_l.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/l.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_f.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/f.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_v.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/v.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_e.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/e.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_o.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/o.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_y.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/y.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_z.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/z.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_g.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/g.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_background.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_e.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/e.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_t.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/t.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_n.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/n.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_e.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/e.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_n.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/n.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_u.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/u.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_c.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/c.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_l.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/l.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_u.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/u.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_s.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/s.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_l.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/l.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_f.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/f.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_a.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/a.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_z.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/z.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_h.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/h.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_m.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/m.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_c.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/c.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_j.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/j.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_ic_send_white_24dp.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/ic_send_white_24dp.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_f.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/f.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_u.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/u.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_o.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/o.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_t.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/t.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_b.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/b.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_background.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_k.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/k.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_x.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/x.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_background.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_ic_send_white_24dp.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/ic_send_white_24dp.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_ic_account_plus_white_24dp.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/ic_account_plus_white_24dp.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_z.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/z.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_q.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/q.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_g.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/g.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_t.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/t.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_background.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_q.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/q.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_w.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/w.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_n.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/n.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_d.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/d.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_r.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/r.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_c.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/c.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/layout_activity_main.xml.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/layout/activity_main.xml"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_i.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/i.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_o.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/o.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_t.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/t.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_k.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/k.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_c.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/c.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_f.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/f.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_w.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/w.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_v.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/v.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_a.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/a.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_w.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/w.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_d.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/d.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_z.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/z.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_ic_send_white_24dp.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/ic_send_white_24dp.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_i.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/i.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_p.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/p.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_q.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/q.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_h.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/h.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_ic_account_plus_white_24dp.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/ic_account_plus_white_24dp.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_s.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/s.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_i.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/i.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_o.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/o.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_x.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/x.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_b.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/b.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_l.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/l.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/menu_menu_main.xml.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/menu/menu_main.xml"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_w.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/w.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_e.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/e.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_y.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/y.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_ic_send_white_24dp.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/ic_send_white_24dp.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_i.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/i.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_r.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/r.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_r.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/r.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_ic_account_plus_white_24dp.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/ic_account_plus_white_24dp.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_a.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/a.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_p.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/p.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_k.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/k.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_y.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/y.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_h.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/h.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_m.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/m.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_m.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/m.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_d.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/d.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_q.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/q.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_x.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/x.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_v.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/v.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_j.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/j.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_b.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/b.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_g.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/g.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_ic_account_plus_white_24dp.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/ic_account_plus_white_24dp.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_x.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/x.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_j.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/j.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_s.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/s.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_n.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/n.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_k.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/k.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_b.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/b.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-mdpi_p.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-mdpi/p.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_v.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/v.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_g.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/g.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_p.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/p.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_r.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/r.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_a.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/a.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xhdpi_j.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xhdpi/j.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_u.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/u.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_y.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/y.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-xxhdpi_h.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-xxhdpi/h.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/drawable-hdpi_d.png.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/drawable-hdpi/d.png"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-merged_res-14:/layout_content_main.xml.flat",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/layout/content_main.xml"
+    }
+]

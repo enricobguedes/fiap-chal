@@ -1,0 +1,7 @@
+#Sun Jun 16 15:54:48 BRT 2024
+base.1=/home/ebg/Documents/fiapchallange/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/12/classes.dex
+path.1=12/classes.dex
+base.0=/home/ebg/Documents/fiapchallange/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

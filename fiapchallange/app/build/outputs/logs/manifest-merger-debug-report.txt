@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.databinding:viewbinding:7.4.1] /home/ebg/.gradle/caches/transforms-3/249d3600569358ec79e3adccb15ba92d/transformed/jetified-viewbinding-7.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.0.0] /home/ebg/.gradle/caches/transforms-3/f808e47287490b609ca58a6cba2cf66c/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /home/ebg/.gradle/caches/transforms-3/43e93da4eb07f0100bf7acf62490e71a/transformed/jetified-MaterialChipsInput-1.0.8/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/ebg/.gradle/caches/transforms-3/f2963602b5ab0ca94d5581a94735e1f2/transformed/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ebg/.gradle/caches/transforms-3/5e61a793826c5f7c7fac7cb56452e49a/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ebg/.gradle/caches/transforms-3/abe229e0bcd5b4ea5113ebf490d52d8b/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ebg/.gradle/caches/transforms-3/a36cfcbca59cd8e5ee328f44be792165/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ebg/.gradle/caches/transforms-3/cc376122dfbb745bebe6b7dcc0298616/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ebg/.gradle/caches/transforms-3/41d2991088b35e41a649a6f1bd762009/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/ebg/.gradle/caches/transforms-3/064b6d6dac5989a73a87a058024e18a6/transformed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/ebg/.gradle/caches/transforms-3/29df42cabfb9f55d9c26a71eee738dce/transformed/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.5.1] /home/ebg/.gradle/caches/transforms-3/c6b612464c74a02139ae0dba2b6bcd3a/transformed/jetified-butterknife-8.5.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ebg/.gradle/caches/transforms-3/0343713288e457939921ddbf372031f2/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ebg/.gradle/caches/transforms-3/24fa6ae5961f8e7caea8b048e637096a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/50d1a0f6c70caa27014e5001aa6acbb9/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/95deb1a9f8e75cefb4799d6299859b40/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/8f261c0a4de0a4d458e1ed507ac01a7e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ebg/.gradle/caches/transforms-3/8f180aabbd4c202a20ba4c7c01472c2e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/6b7e35d439dcbc31d976d1d14a67dff5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ebg/.gradle/caches/transforms-3/9ccd34a90329f3dde434814ca6f45e44/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/ebg/.gradle/caches/transforms-3/c99b5731aa1f9baa80e52b52bcf10788/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ebg/.gradle/caches/transforms-3/cc40e3cdc4afa6bb3c1066bf0c0f5169/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ebg/.gradle/caches/transforms-3/da651716e0704609633d336b7c6b5459/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ebg/.gradle/caches/transforms-3/bb1ceff9432280da20826dbab4046353/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ebg/.gradle/caches/transforms-3/fa879dc556cdb99c4966400340996c5f/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ebg/.gradle/caches/transforms-3/ee28de89070735598549537efbf5d796/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ebg/.gradle/caches/transforms-3/dd870d8077eb587300e98c468786341e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ebg/.gradle/caches/transforms-3/23877e21b53c18e2dbffb37975d387de/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ebg/.gradle/caches/transforms-3/07cd19dc143aea99fea962a6ebd46313/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ebg/.gradle/caches/transforms-3/98fc3763a0203a1202490c27820748ba/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ebg/.gradle/caches/transforms-3/5237b22822c58412d507686445044890/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ebg/.gradle/caches/transforms-3/ad66e772d81c24294334a67dcba429b3/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ebg/.gradle/caches/transforms-3/0c50728d0651f90cc145fe7c7bcbd1c2/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /home/ebg/.gradle/caches/transforms-3/9afad3290b6708d74cb6f5d30894f3b5/transformed/jetified-ChipsLayoutManager-0.3.7/AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/ebg/.gradle/caches/transforms-3/fe00086bdaabe70fc21836f4717a08cc/transformed/jetified-circleimageview-2.1.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from [com.google.android.material:material:1.0.0] /home/ebg/.gradle/caches/transforms-3/f808e47287490b609ca58a6cba2cf66c/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/ebg/.gradle/caches/transforms-3/f808e47287490b609ca58a6cba2cf66c/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /home/ebg/.gradle/caches/transforms-3/43e93da4eb07f0100bf7acf62490e71a/transformed/jetified-MaterialChipsInput-1.0.8/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /home/ebg/.gradle/caches/transforms-3/43e93da4eb07f0100bf7acf62490e71a/transformed/jetified-MaterialChipsInput-1.0.8/AndroidManifest.xml:11:5-15:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.0.0] /home/ebg/.gradle/caches/transforms-3/c99b5731aa1f9baa80e52b52bcf10788/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/ebg/.gradle/caches/transforms-3/c99b5731aa1f9baa80e52b52bcf10788/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ebg/.gradle/caches/transforms-3/cc40e3cdc4afa6bb3c1066bf0c0f5169/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ebg/.gradle/caches/transforms-3/cc40e3cdc4afa6bb3c1066bf0c0f5169/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/ebg/.gradle/caches/transforms-3/fe00086bdaabe70fc21836f4717a08cc/transformed/jetified-circleimageview-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/ebg/.gradle/caches/transforms-3/fe00086bdaabe70fc21836f4717a08cc/transformed/jetified-circleimageview-2.1.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/ebg/.gradle/caches/transforms-3/c99b5731aa1f9baa80e52b52bcf10788/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:10:9-41
+	android:hardwareAccelerated
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:8:9-43
+	android:roundIcon
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:13:9-40
+activity#fiap.com.br.fiapchallange.MainActivity
+ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:15:9-26:20
+	android:screenOrientation
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:17:13-45
+	android:exported
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.1] /home/ebg/.gradle/caches/transforms-3/249d3600569358ec79e3adccb15ba92d/transformed/jetified-viewbinding-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] /home/ebg/.gradle/caches/transforms-3/249d3600569358ec79e3adccb15ba92d/transformed/jetified-viewbinding-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/ebg/.gradle/caches/transforms-3/f808e47287490b609ca58a6cba2cf66c/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/ebg/.gradle/caches/transforms-3/f808e47287490b609ca58a6cba2cf66c/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /home/ebg/.gradle/caches/transforms-3/43e93da4eb07f0100bf7acf62490e71a/transformed/jetified-MaterialChipsInput-1.0.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /home/ebg/.gradle/caches/transforms-3/43e93da4eb07f0100bf7acf62490e71a/transformed/jetified-MaterialChipsInput-1.0.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/ebg/.gradle/caches/transforms-3/f2963602b5ab0ca94d5581a94735e1f2/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/ebg/.gradle/caches/transforms-3/f2963602b5ab0ca94d5581a94735e1f2/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ebg/.gradle/caches/transforms-3/5e61a793826c5f7c7fac7cb56452e49a/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ebg/.gradle/caches/transforms-3/5e61a793826c5f7c7fac7cb56452e49a/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ebg/.gradle/caches/transforms-3/abe229e0bcd5b4ea5113ebf490d52d8b/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ebg/.gradle/caches/transforms-3/abe229e0bcd5b4ea5113ebf490d52d8b/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ebg/.gradle/caches/transforms-3/a36cfcbca59cd8e5ee328f44be792165/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ebg/.gradle/caches/transforms-3/a36cfcbca59cd8e5ee328f44be792165/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ebg/.gradle/caches/transforms-3/cc376122dfbb745bebe6b7dcc0298616/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ebg/.gradle/caches/transforms-3/cc376122dfbb745bebe6b7dcc0298616/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ebg/.gradle/caches/transforms-3/41d2991088b35e41a649a6f1bd762009/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ebg/.gradle/caches/transforms-3/41d2991088b35e41a649a6f1bd762009/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/ebg/.gradle/caches/transforms-3/064b6d6dac5989a73a87a058024e18a6/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/ebg/.gradle/caches/transforms-3/064b6d6dac5989a73a87a058024e18a6/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/ebg/.gradle/caches/transforms-3/29df42cabfb9f55d9c26a71eee738dce/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/ebg/.gradle/caches/transforms-3/29df42cabfb9f55d9c26a71eee738dce/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.5.1] /home/ebg/.gradle/caches/transforms-3/c6b612464c74a02139ae0dba2b6bcd3a/transformed/jetified-butterknife-8.5.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] /home/ebg/.gradle/caches/transforms-3/c6b612464c74a02139ae0dba2b6bcd3a/transformed/jetified-butterknife-8.5.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.loader:loader:1.0.0] /home/ebg/.gradle/caches/transforms-3/0343713288e457939921ddbf372031f2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ebg/.gradle/caches/transforms-3/0343713288e457939921ddbf372031f2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ebg/.gradle/caches/transforms-3/24fa6ae5961f8e7caea8b048e637096a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ebg/.gradle/caches/transforms-3/24fa6ae5961f8e7caea8b048e637096a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/50d1a0f6c70caa27014e5001aa6acbb9/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/50d1a0f6c70caa27014e5001aa6acbb9/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/95deb1a9f8e75cefb4799d6299859b40/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/95deb1a9f8e75cefb4799d6299859b40/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/8f261c0a4de0a4d458e1ed507ac01a7e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/8f261c0a4de0a4d458e1ed507ac01a7e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ebg/.gradle/caches/transforms-3/8f180aabbd4c202a20ba4c7c01472c2e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ebg/.gradle/caches/transforms-3/8f180aabbd4c202a20ba4c7c01472c2e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/6b7e35d439dcbc31d976d1d14a67dff5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ebg/.gradle/caches/transforms-3/6b7e35d439dcbc31d976d1d14a67dff5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ebg/.gradle/caches/transforms-3/9ccd34a90329f3dde434814ca6f45e44/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ebg/.gradle/caches/transforms-3/9ccd34a90329f3dde434814ca6f45e44/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/ebg/.gradle/caches/transforms-3/c99b5731aa1f9baa80e52b52bcf10788/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/ebg/.gradle/caches/transforms-3/c99b5731aa1f9baa80e52b52bcf10788/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ebg/.gradle/caches/transforms-3/cc40e3cdc4afa6bb3c1066bf0c0f5169/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ebg/.gradle/caches/transforms-3/cc40e3cdc4afa6bb3c1066bf0c0f5169/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ebg/.gradle/caches/transforms-3/da651716e0704609633d336b7c6b5459/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ebg/.gradle/caches/transforms-3/da651716e0704609633d336b7c6b5459/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ebg/.gradle/caches/transforms-3/bb1ceff9432280da20826dbab4046353/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ebg/.gradle/caches/transforms-3/bb1ceff9432280da20826dbab4046353/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ebg/.gradle/caches/transforms-3/fa879dc556cdb99c4966400340996c5f/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ebg/.gradle/caches/transforms-3/fa879dc556cdb99c4966400340996c5f/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ebg/.gradle/caches/transforms-3/ee28de89070735598549537efbf5d796/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ebg/.gradle/caches/transforms-3/ee28de89070735598549537efbf5d796/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ebg/.gradle/caches/transforms-3/dd870d8077eb587300e98c468786341e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ebg/.gradle/caches/transforms-3/dd870d8077eb587300e98c468786341e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ebg/.gradle/caches/transforms-3/23877e21b53c18e2dbffb37975d387de/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ebg/.gradle/caches/transforms-3/23877e21b53c18e2dbffb37975d387de/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ebg/.gradle/caches/transforms-3/07cd19dc143aea99fea962a6ebd46313/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ebg/.gradle/caches/transforms-3/07cd19dc143aea99fea962a6ebd46313/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ebg/.gradle/caches/transforms-3/98fc3763a0203a1202490c27820748ba/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ebg/.gradle/caches/transforms-3/98fc3763a0203a1202490c27820748ba/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ebg/.gradle/caches/transforms-3/5237b22822c58412d507686445044890/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ebg/.gradle/caches/transforms-3/5237b22822c58412d507686445044890/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ebg/.gradle/caches/transforms-3/ad66e772d81c24294334a67dcba429b3/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ebg/.gradle/caches/transforms-3/ad66e772d81c24294334a67dcba429b3/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ebg/.gradle/caches/transforms-3/0c50728d0651f90cc145fe7c7bcbd1c2/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ebg/.gradle/caches/transforms-3/0c50728d0651f90cc145fe7c7bcbd1c2/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /home/ebg/.gradle/caches/transforms-3/9afad3290b6708d74cb6f5d30894f3b5/transformed/jetified-ChipsLayoutManager-0.3.7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /home/ebg/.gradle/caches/transforms-3/9afad3290b6708d74cb6f5d30894f3b5/transformed/jetified-ChipsLayoutManager-0.3.7/AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/ebg/.gradle/caches/transforms-3/fe00086bdaabe70fc21836f4717a08cc/transformed/jetified-circleimageview-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/ebg/.gradle/caches/transforms-3/fe00086bdaabe70fc21836f4717a08cc/transformed/jetified-circleimageview-2.1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+		ADDED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64

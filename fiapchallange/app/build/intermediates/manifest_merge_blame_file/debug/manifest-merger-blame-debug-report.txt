@@ -1,0 +1,71 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="fiap.com.br.fiapchallange"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:4:5-66
+11-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:6:5-28:19
+14        android:allowBackup="true"
+14-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.0.0] /home/ebg/.gradle/caches/transforms-3/c99b5731aa1f9baa80e52b52bcf10788/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:hardwareAccelerated="true"
+18-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:8:9-43
+19        android:icon="@mipmap/ic_launcher"
+19-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:9:9-43
+20        android:label="@string/app_name"
+20-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:10:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:11:9-54
+22        android:supportsRtl="true"
+22-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:12:9-35
+23        android:theme="@style/AppTheme" >
+23-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:13:9-40
+24        <activity
+24-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:15:9-26:20
+25            android:name="fiap.com.br.fiapchallange.MainActivity"
+25-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:16:13-41
+26            android:exported="true"
+26-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:20:13-36
+27            android:label="@string/app_name"
+27-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:17:13-45
+28            android:screenOrientation="portrait"
+28-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:18:13-49
+29            android:theme="@style/AppTheme.NoActionBar" >
+29-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:19:13-56
+30            <intent-filter>
+30-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:22:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:23:17-69
+31-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:24:17-77
+33-->/home/ebg/Documents/fiapchallange/app/src/main/AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36
+37        <provider
+37-->[com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+38            android:name="com.squareup.picasso.PicassoProvider"
+38-->[com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+39            android:authorities="fiap.com.br.fiapchallange.com.squareup.picasso"
+39-->[com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+40            android:exported="false" />
+40-->[com.squareup.picasso:picasso:2.71828] /home/ebg/.gradle/caches/transforms-3/94fc52762c5608927d0e5ca7d3e19c9b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+41    </application>
+42
+43</manifest>

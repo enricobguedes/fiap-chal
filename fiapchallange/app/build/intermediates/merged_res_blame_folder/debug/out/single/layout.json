@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "fiap.com.br.fiapchallange.app-mergeDebugResources-13:/layout/activity_main.xml",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/layout/activity_main.xml"
+    },
+    {
+        "merged": "fiap.com.br.fiapchallange.app-mergeDebugResources-13:/layout/content_main.xml",
+        "source": "fiap.com.br.fiapchallange.app-main-16:/layout/content_main.xml"
+    }
+]

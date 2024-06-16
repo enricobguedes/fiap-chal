@@ -1,0 +1,17 @@
+fiap.com.br.fiapchallange.app-transition-1.0.0-0 /home/ebg/.gradle/caches/transforms-3/29df42cabfb9f55d9c26a71eee738dce/transformed/transition-1.0.0/res
+fiap.com.br.fiapchallange.app-jetified-MaterialChipsInput-1.0.8-1 /home/ebg/.gradle/caches/transforms-3/43e93da4eb07f0100bf7acf62490e71a/transformed/jetified-MaterialChipsInput-1.0.8/res
+fiap.com.br.fiapchallange.app-coordinatorlayout-1.0.0-2 /home/ebg/.gradle/caches/transforms-3/50d1a0f6c70caa27014e5001aa6acbb9/transformed/coordinatorlayout-1.0.0/res
+fiap.com.br.fiapchallange.app-recyclerview-1.0.0-3 /home/ebg/.gradle/caches/transforms-3/a36cfcbca59cd8e5ee328f44be792165/transformed/recyclerview-1.0.0/res
+fiap.com.br.fiapchallange.app-cardview-1.0.0-4 /home/ebg/.gradle/caches/transforms-3/bb1ceff9432280da20826dbab4046353/transformed/cardview-1.0.0/res
+fiap.com.br.fiapchallange.app-core-1.0.0-5 /home/ebg/.gradle/caches/transforms-3/c99b5731aa1f9baa80e52b52bcf10788/transformed/core-1.0.0/res
+fiap.com.br.fiapchallange.app-appcompat-1.0.0-6 /home/ebg/.gradle/caches/transforms-3/f2963602b5ab0ca94d5581a94735e1f2/transformed/appcompat-1.0.0/res
+fiap.com.br.fiapchallange.app-material-1.0.0-7 /home/ebg/.gradle/caches/transforms-3/f808e47287490b609ca58a6cba2cf66c/transformed/material-1.0.0/res
+fiap.com.br.fiapchallange.app-jetified-circleimageview-2.1.0-8 /home/ebg/.gradle/caches/transforms-3/fe00086bdaabe70fc21836f4717a08cc/transformed/jetified-circleimageview-2.1.0/res
+fiap.com.br.fiapchallange.app-pngs-9 /home/ebg/Documents/fiapchallange/app/build/generated/res/pngs/debug
+fiap.com.br.fiapchallange.app-resValues-10 /home/ebg/Documents/fiapchallange/app/build/generated/res/resValues/debug
+fiap.com.br.fiapchallange.app-rs-11 /home/ebg/Documents/fiapchallange/app/build/generated/res/rs/debug
+fiap.com.br.fiapchallange.app-mergeDebugResources-12 /home/ebg/Documents/fiapchallange/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+fiap.com.br.fiapchallange.app-mergeDebugResources-13 /home/ebg/Documents/fiapchallange/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+fiap.com.br.fiapchallange.app-merged_res-14 /home/ebg/Documents/fiapchallange/app/build/intermediates/merged_res/debug
+fiap.com.br.fiapchallange.app-debug-15 /home/ebg/Documents/fiapchallange/app/src/debug/res
+fiap.com.br.fiapchallange.app-main-16 /home/ebg/Documents/fiapchallange/app/src/main/res

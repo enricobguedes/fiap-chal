@@ -1,0 +1,5 @@
+fiap.com.br.fiapchallange.test.app-androidTest-0 /home/ebg/Documents/fiapchallange/app/build/generated/res/resValues/androidTest/debug
+fiap.com.br.fiapchallange.test.app-androidTest-1 /home/ebg/Documents/fiapchallange/app/build/generated/res/rs/androidTest/debug
+fiap.com.br.fiapchallange.test.app-mergeDebugAndroidTestResources-2 /home/ebg/Documents/fiapchallange/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+fiap.com.br.fiapchallange.test.app-mergeDebugAndroidTestResources-3 /home/ebg/Documents/fiapchallange/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+fiap.com.br.fiapchallange.test.app-merged_res-4 /home/ebg/Documents/fiapchallange/app/build/intermediates/merged_res/debugAndroidTest
