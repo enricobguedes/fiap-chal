@@ -1,78 +1,44 @@
 import mysql.connector;
-import os;
 import datetime;
+import os;
 
-def createData(action,data):
-    appender="\",\""
-    if(kindofinfo=="newuser"):
-        rowstamp=now.strftime("%Y/%m/%d %H:%M:%S");
+def createData(kindofinfo, data, db_connection):
+    now = datetime.datetime.now()  # Obter a data/hora atual
+    rowstamp = now.strftime("%Y/%m/%d %H:%M:%S")
 
-        column='uname,upwd,uendereco,rowstamp'
-        values="\"" + data.get("uname") + appender + data.get("upwd") + appender + data.get(uendereco) + appender + rowstamp + "\""
-
-        response = db_connection.inserttx(column, values, tbuser)
-        return response
-
-    if(kindofinfo=="sendemail"):
-        rowstamp=now.strftime("%Y/%m/%d %H:%M:%S");
-
-        column='uname,upwd,uendereco,rowstamp'
-        values="\"" + data.get("uname") + appender + data.get("upwd") + appender + data.get(uendereco) + appender + rowstamp + "\""
-
-        response = db_connection.inserttx(column, values, tbuser)
-        return response
-
-    if(kindofinfo=="simplecal"):
-        rowstamp=now.strftime("%Y/%m/%d %H:%M:%S");
-
-        column='uname,upwd,uendereco,rowstamp'
-        values="\"" + data.get("uname") + appender + data.get("upwd") + appender + data.get(uendereco) + appender + rowstamp + "\""
-
-        response = db_connection.inserttx(column, values, tbuser)
-
-        return response
-
-    if(kindofinfo=="emailcal"):
-        rowstamp=now.strftime("%Y/%m/%d %H:%M:%S");
-
-        column='uname,upwd,uendereco,rowstamp'
-        values="\"" + data.get("uname") + appender + data.get("upwd") + appender + data.get(uendereco) + appender + rowstamp + "\""
-
-        response = db_connection.inserttx(column, values, tbuser)
-
-        return response
-
-    if(kindofinfo=="uconfig"):
-        rowstamp=now.strftime("%Y/%m/%d %H:%M:%S");
-
-        column='uname,upwd,uendereco,rowstamp'
-        values="\"" + data.get("uname") + appender + data.get("upwd") + appender + data.get(uendereco) + appender + rowstamp + "\""
-
-        response = db_connection.inserttx(column, values, tbuser)
-
-        return response
+    # Inserção de novo usuário
+    if kindofinfo == "newuser":
+        column = 'uname, upwd, uendereco, rowstamp'
+        values = "\"" + data.get("uname") + "\",\"" + data.get("upwd") + "\",\"" + data.get("uendereco") + "\",\"" + rowstamp + "\""
+        table = "tbuser"
     
+    # Envio de email
+    elif kindofinfo == "sendemail":
+        column = 'usid, usdestinatario, eassunto, hasCal, ecompleto, egigante, rowstamp'
+        values = "\"" + data.get("usid") + "\",\"" + data.get("usdestinatario") + "\",\"" + data.get("eassunto") + "\",\"" + str(data.get("hasCal")) + "\",\"" + data.get("ecompleto") + "\",\"" + data.get("egigante") + "\",\"" + rowstamp + "\""
+        table = "tbemail"
+    
+    # Criação de evento de calendário
+    elif kindofinfo == "createcalendar":
+        column = 'usid, ueid, calinicio, calfinal, caldestinatario'
+        values = "\"" + data.get("usid") + "\",\"" + data.get("ueid") + "\",\"" + data.get("calinicio") + "\",\"" + data.get("calfinal") + "\",\"" + data.get("caldestinatario") + "\""
+        table = "tbcalendar"
+    
+    # Criação de tema do usuário
+    elif kindofinfo =="uconfig":
+        column = 'ucid', 'usid', 'uctema'
+        values ="\"" + data.get("ucid") + "\",\"" + data.get("usid") + "\",\"" + data.get("uctema") + "\""
+        table = "tbuserconfiog"
 
-#createUser:
-## JSON esperado: 
-#    'uname'='USER_TESTE', 
-#    'upwd'= '01234567',
-#    'uendereco'='test@test.br',
+     # Criação de evento de calendário
+    elif kindofinfo =="emailcal":
+        column = 'ucid', 'usid', 'uctema'
+        values ="\"" + data.get("ucid") + "\",\"" + data.get("usid") + "\",\"" + data.get("uctema") + "\""
+        table = "tbemailcal"
 
-#sendEmail:
-## JSON esperado: 
-#    usid=user id,
-#    usdestinatario=email destinatario,  
-#    eassunto=assunto do email, 
-#    hasCal= boolean se tiver item de calendario, 
-#    ecompleto= corpo do email , 
-#    egigante= corpo do email se for maior que 2k char
-
-#createCalendar:
-## JSON esperado: 
-#    usid = user id 
-#    ueid = email id (retornado do sendEmail se tiver sido enviado em email) 
-#    calinicio = formato timestamp de SQL
-#    calfinal= formato timestamp de SQL
-#    caldestinatario = email de quem irá receber/quem convidou
-
+    # Usar o método inserttx através do db_connection para inserir os dados
+    try:
+        response = db_connection.inserttx(column, values, table)
+        return response
+    except Exception as err:
+        return f"Error: {err}"
